@@ -1,10 +1,15 @@
 # get_repo_github
- Aplicação com listagem de repositórios Github
+ Aplicação de listagem de repositórios Github
 
-Teconologias utilizadas:
+Linguagem: 
 
--> Linguagem Javascript com recursos ES6+
+-> Javascript com recursos ES6+
+
+Ferramentas utilizadas:
+
 -> Visual Studio Code
+
+Tecnologias utilizadas:
 
 -> Pacotes instalados e adicionados através do terminal:
 -> Gerenciador de pacotes yarn - yarn install
